@@ -1,0 +1,14 @@
+D:\projects insha allah\project1\blog\bin\Debug\net10.0\blog.exe
+D:\projects insha allah\project1\blog\bin\Debug\net10.0\blog.deps.json
+D:\projects insha allah\project1\blog\bin\Debug\net10.0\blog.runtimeconfig.json
+D:\projects insha allah\project1\blog\bin\Debug\net10.0\blog.dll
+D:\projects insha allah\project1\blog\bin\Debug\net10.0\blog.pdb
+D:\projects insha allah\project1\blog\obj\Debug\net10.0\blog.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects insha allah\project1\blog\obj\Debug\net10.0\blog.AssemblyInfoInputs.cache
+D:\projects insha allah\project1\blog\obj\Debug\net10.0\blog.AssemblyInfo.cs
+D:\projects insha allah\project1\blog\obj\Debug\net10.0\blog.csproj.CoreCompileInputs.cache
+D:\projects insha allah\project1\blog\obj\Debug\net10.0\blog.dll
+D:\projects insha allah\project1\blog\obj\Debug\net10.0\refint\blog.dll
+D:\projects insha allah\project1\blog\obj\Debug\net10.0\blog.pdb
+D:\projects insha allah\project1\blog\obj\Debug\net10.0\blog.genruntimeconfig.cache
+D:\projects insha allah\project1\blog\obj\Debug\net10.0\ref\blog.dll
