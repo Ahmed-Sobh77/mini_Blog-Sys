@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\projects insha allah\\project1\\blog\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F78C85BB-18FC-D4AC-08B9-0D1BEB8AC6FE}|blog.csproj|d:\\projects insha allah\\project1\\blog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F78C85BB-18FC-D4AC-08B9-0D1BEB8AC6FE}|blog.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F78C85BB-18FC-D4AC-08B9-0D1BEB8AC6FE}|blog.csproj|d:\\projects insha allah\\project1\\blog\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F78C85BB-18FC-D4AC-08B9-0D1BEB8AC6FE}|blog.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,22 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F78C85BB-18FC-D4AC-08B9-0D1BEB8AC6FE}|blog.csproj|d:\\projects insha allah\\project1\\blog\\services\\quriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F78C85BB-18FC-D4AC-08B9-0D1BEB8AC6FE}|blog.csproj|solutionrelative:services\\quriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F78C85BB-18FC-D4AC-08B9-0D1BEB8AC6FE}|blog.csproj|d:\\projects insha allah\\project1\\blog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F78C85BB-18FC-D4AC-08B9-0D1BEB8AC6FE}|blog.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F78C85BB-18FC-D4AC-08B9-0D1BEB8AC6FE}|blog.csproj|d:\\projects insha allah\\project1\\blog\\consoledisplay\\tokens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F78C85BB-18FC-D4AC-08B9-0D1BEB8AC6FE}|blog.csproj|solutionrelative:consoledisplay\\tokens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F78C85BB-18FC-D4AC-08B9-0D1BEB8AC6FE}|blog.csproj|d:\\projects insha allah\\project1\\blog\\consoledisplay\\runprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F78C85BB-18FC-D4AC-08B9-0D1BEB8AC6FE}|blog.csproj|solutionrelative:consoledisplay\\runprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F78C85BB-18FC-D4AC-08B9-0D1BEB8AC6FE}|blog.csproj|d:\\projects insha allah\\project1\\blog\\consoledisplay\\validation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F78C85BB-18FC-D4AC-08B9-0D1BEB8AC6FE}|blog.csproj|solutionrelative:consoledisplay\\validation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F78C85BB-18FC-D4AC-08B9-0D1BEB8AC6FE}|blog.csproj|d:\\projects insha allah\\project1\\blog\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -62,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,56 +62,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Tokens.cs",
-              "DocumentMoniker": "D:\\projects insha allah\\project1\\blog\\ConsoleDisplay\\Tokens.cs",
-              "RelativeDocumentMoniker": "ConsoleDisplay\\Tokens.cs",
-              "ToolTip": "D:\\projects insha allah\\project1\\blog\\ConsoleDisplay\\Tokens.cs",
-              "RelativeToolTip": "ConsoleDisplay\\Tokens.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAIwFkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-23T00:40:51.202Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "RunProgram.cs",
-              "DocumentMoniker": "D:\\projects insha allah\\project1\\blog\\ConsoleDisplay\\RunProgram.cs",
-              "RelativeDocumentMoniker": "ConsoleDisplay\\RunProgram.cs",
-              "ToolTip": "D:\\projects insha allah\\project1\\blog\\ConsoleDisplay\\RunProgram.cs",
-              "RelativeToolTip": "ConsoleDisplay\\RunProgram.cs",
-              "ViewState": "AgIAAAgAAAAQmpmZmZk9wBwAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-22T23:46:10.774Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "UserService.cs",
               "DocumentMoniker": "D:\\projects insha allah\\project1\\blog\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "Services\\UserService.cs",
               "ToolTip": "D:\\projects insha allah\\project1\\blog\\Services\\UserService.cs",
               "RelativeToolTip": "Services\\UserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-22T22:36:42.975Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\projects insha allah\\project1\\blog\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\projects insha allah\\project1\\blog\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAxwAgAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-01T00:28:12.056Z"
+              "WhenOpened": "2026-03-01T00:28:12.056Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "NotificationService.cs",
               "DocumentMoniker": "D:\\projects insha allah\\project1\\blog\\Services\\NotificationService.cs",
               "RelativeDocumentMoniker": "Services\\NotificationService.cs",
@@ -131,12 +96,11 @@
               "RelativeToolTip": "Services\\NotificationService.cs",
               "ViewState": "AgIAAAAAAADolJmZmZkZwAwAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T02:04:30.296Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-15T02:04:30.296Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "PostService.cs",
               "DocumentMoniker": "D:\\projects insha allah\\project1\\blog\\Services\\PostService.cs",
               "RelativeDocumentMoniker": "Services\\PostService.cs",
@@ -144,12 +108,11 @@
               "RelativeToolTip": "Services\\PostService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T01:39:50.556Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-06T01:39:50.556Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "QuriesService.cs",
               "DocumentMoniker": "D:\\projects insha allah\\project1\\blog\\Services\\QuriesService.cs",
               "RelativeDocumentMoniker": "Services\\QuriesService.cs",
@@ -157,24 +120,11 @@
               "RelativeToolTip": "Services\\QuriesService.cs",
               "ViewState": "AgIAACYAAACgYWZmZmYOwF0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T01:39:25.613Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-16T01:39:25.613Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Validation.cs",
-              "DocumentMoniker": "D:\\projects insha allah\\project1\\blog\\ConsoleDisplay\\Validation.cs",
-              "RelativeDocumentMoniker": "ConsoleDisplay\\Validation.cs",
-              "ToolTip": "D:\\projects insha allah\\project1\\blog\\ConsoleDisplay\\Validation.cs",
-              "RelativeToolTip": "ConsoleDisplay\\Validation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-23T00:42:16.73Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 6,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\projects insha allah\\project1\\blog\\Models\\User.cs",
               "RelativeDocumentMoniker": "Models\\User.cs",
@@ -186,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "Comment.cs",
               "DocumentMoniker": "D:\\projects insha allah\\project1\\blog\\Models\\Comment.cs",
               "RelativeDocumentMoniker": "Models\\Comment.cs",
@@ -198,7 +148,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 7,
               "Title": "DataContext.cs",
               "DocumentMoniker": "D:\\projects insha allah\\project1\\blog\\Data\\DataContext.cs",
               "RelativeDocumentMoniker": "Data\\DataContext.cs",
@@ -210,7 +160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 8,
               "Title": "Post.cs",
               "DocumentMoniker": "D:\\projects insha allah\\project1\\blog\\Models\\Post.cs",
               "RelativeDocumentMoniker": "Models\\Post.cs",
@@ -222,7 +172,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 9,
               "Title": "Content.cs",
               "DocumentMoniker": "D:\\projects insha allah\\project1\\blog\\Models\\Content.cs",
               "RelativeDocumentMoniker": "Models\\Content.cs",
